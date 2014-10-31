@@ -24,4 +24,4 @@ $thickness - thickness of lines (not used)
 $step - defines flow drawing grid.
 
 =====
-Original code and article can be found here: http://www.ipol.im/pub/art/2013/26/
+Original C code and article can be found here: http://www.ipol.im/pub/art/2013/26/
