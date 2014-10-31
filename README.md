@@ -6,7 +6,7 @@ Optical flow in PHP for meteo.lt radar pictures. Requires GD.
 Usage
 =====
 
-To initialize class you need two images. Optical flow starts on class construction.
+To initialize class you need two images. Optical flow calculation starts on class construction.
 
 $opticalFlow = new TVL1($firstImage, $secondImage, $fineTune);
 
